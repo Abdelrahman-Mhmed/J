@@ -82,13 +82,13 @@ h1:hover {
     max-width: 700px;
     margin: 0 auto;
     padding: 40px;
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 228, 236, 0.85);
     backdrop-filter: blur(15px);
     border-radius: 25px;
     box-shadow: 0 12px 40px rgba(139, 76, 122, 0.15);
-    border: 2px solid rgba(255, 182, 193, 0.3);
+    border: 2px solid rgba(255, 182, 193, 0.4);
     animation: slideIn 1.2s ease-out 0.3s both;
-    color: #5a3a4f;
+    color: #6b2c57;
 }
 
 @keyframes slideIn {
